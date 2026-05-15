@@ -1,10 +1,7 @@
-# Advanced GitHub Profile README for Anil Kumar Paital
-
-```md
 <h1 align="center">Hi 👋, I'm Anil Kumar Paital</h1>
 
 <h3 align="center">
-🚀 Aspiring Software Developer | Full-Stack Developer
+🚀 Aspiring Software Developer | Unity Developer | Full-Stack Developer
 </h3>
 
 <p align="center">
@@ -15,7 +12,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R1NXB3NWhjZnZrZ2R1OGpkdTF6c2l5N2t4a2Y2OXl0dmd3c3h0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 - 🎓 B.E. Information Technology @ Chandigarh University
 - 🌱 Currently learning **Full-Stack Development & Augmented Reality**
@@ -123,24 +120,3 @@
 <p align="center">
 ✨ Thanks for visiting my profile ✨
 </p>
-```
-
-## Extra Suggestions
-
-After adding this README:
-
-1. Upload a professional GitHub profile picture
-2. Keep contribution graph active with regular commits
-3. Add more pinned projects later
-4. Add a portfolio website in future
-5. Add project screenshots in repositories
-
-This README includes:
-
-* Animated typing effect
-* Skill icons
-* GitHub stats cards
-* GIF animation
-* Professional badges
-* Modern UI styling
-* Project showcase buttons

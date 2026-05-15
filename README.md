@@ -1,69 +1,146 @@
+# Advanced GitHub Profile README for Anil Kumar Paital
+
+```md
 <h1 align="center">Hi 👋, I'm Anil Kumar Paital</h1>
 
 <h3 align="center">
-Aspiring Software Developer | Unity & Full-Stack Developer
+🚀 Aspiring Software Developer | Full-Stack Developer
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Unity+Developer;Full-Stack+Web+Developer;AR+%26+Mobile+Application+Developer;Passionate+about+Building+Real-World+Projects" alt="Typing SVG" />
+</p>
+
 ---
 
-## 🚀 About Me
+## 🌟 About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R1NXB3NWhjZnZrZ2R1OGpkdTF6c2l5N2t4a2Y2OXl0dmd3c3h0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 - 🎓 B.E. Information Technology @ Chandigarh University
-- 🌱 Exploring Full-Stack Development & Augmented Reality
-- 🐉 Built AR projects using Unity & Vuforia
-- 🍔 Developed CampusBite - University Food Ordering System
-- 💻 Passionate about real-world software development
+- 🌱 Currently learning **Full-Stack Development & Augmented Reality**
+- 🐉 Built an **AR Image Tracking System** using Unity & Vuforia
+- 🍔 Developed **CampusBite** - Smart Food Ordering Platform
+- 💡 Passionate about building innovative and real-world applications
+- ⚡ Interested in AR/VR, Web Development & Software Engineering
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### Languages
-- C
-- C++
-- JavaScript
-- C#
+### 👨‍💻 Languages
 
-### Frontend
-- React.js
-- HTML
-- CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js" />
+</p>
 
-### Backend & Database
-- Node.js
-- Express.js
-- MySQL
+### 🎨 Frontend Development
 
-### Tools & Technologies
-- Unity 3D
-- Vuforia Engine
-- Git & GitHub
-- VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Featured Projects
 
 ### 🐉 AR Image Tracking System
-AR application using Unity & Vuforia that detects image targets and spawns interactive 3D objects.
+
+📱 Interactive Augmented Reality application using **Unity 3D** and **Vuforia Engine** that detects image targets and spawns animated 3D objects in real time.
+
+✨ Features:
+- Real-time Image Tracking
+- Interactive 3D Dragon Model
+- Joystick Controls
+- Mobile AR Experience
 
 🔗 Repository:
-https://github.com/anilkumarpaital1-art/AR-Image-Tracking
+
+[![AR Project](https://img.shields.io/badge/View_Project-AR_Image_Tracking-blue?style=for-the-badge&logo=github)](https://github.com/anilkumarpaital1-art/AR-Image-Tracking)
 
 ---
 
 ### 🍔 CampusBite
-University-based food ordering & vendor management system with multi-cart functionality.
+
+🌐 Full-Stack food ordering & canteen management platform designed for university students.
+
+✨ Features:
+- Multi-Canteen Food Ordering
+- Vendor Dashboard
+- Real-Time Ordering System
+- Responsive UI
 
 🔗 Repository:
-https://github.com/anilkumarpaital1-art/campusbite
+
+[![CampusBite](https://img.shields.io/badge/View_Project-CampusBite-green?style=for-the-badge&logo=github)](https://github.com/anilkumarpaital1-art/campusbite)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anilkumarpaital1-art&show_icons=true&theme=tokyonight" height="180em" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilkumarpaital1-art&theme=tokyonight" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilkumarpaital1-art&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn:
-https://www.linkedin.com/in/anil-kumar-paital-a35aa6327/
+<p align="center">
+  <a href="https://www.linkedin.com/in/anil-kumar-paital-a35aa6327/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-- GitHub:
-https://github.com/anilkumarpaital1-art
+  <a href="https://github.com/anilkumarpaital1-art">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anilkumarpaital1-art&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
+```
+
+## Extra Suggestions
+
+After adding this README:
+
+1. Upload a professional GitHub profile picture
+2. Keep contribution graph active with regular commits
+3. Add more pinned projects later
+4. Add a portfolio website in future
+5. Add project screenshots in repositories
+
+This README includes:
+
+* Animated typing effect
+* Skill icons
+* GitHub stats cards
+* GIF animation
+* Professional badges
+* Modern UI styling
+* Project showcase buttons

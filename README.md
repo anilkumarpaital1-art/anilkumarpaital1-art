@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Building+Real-World+Projects;React+%7C+Node.js+%7C+MySQL;Passionate+About+Software+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Building+Real-World+Projects;React+%7C+Node.js+%7C+MySQL+%7C+MongoDB;Passionate+About+Software+Development" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,13 +14,14 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 B.E. Information Technology @ Chandigarh University
-- 💻 Passionate about Full-Stack Web Development
-- 🌱 Currently learning advanced backend & scalable applications
-- 🚀 Building real-world software projects
-- 🍔 Developed **CampusBite** - University Food Ordering System
-- 🐉 Explored Augmented Reality using Unity & Vuforia
-- ⚡ Interested in Software Engineering & Problem Solving
+* 🎓 B.E. Information Technology @ Chandigarh University
+* 💻 Passionate about Full-Stack Web Development
+* 🌱 Currently learning advanced backend & scalable applications
+* 🚀 Building real-world software projects
+* 🏥 Developed **Burdwan Scan Centre** - Full-Stack Diagnostic Centre Web Platform
+* 🍔 Developed **CampusBite** - University Food Ordering System
+* 🐉 Explored Augmented Reality using Unity & Vuforia
+* ⚡ Interested in Software Engineering & Problem Solving
 
 ---
 
@@ -54,20 +55,45 @@
 
 ## 🏆 Featured Projects
 
+### 🏥 Burdwan Scan Centre
+
+🌐 Full-Stack diagnostic centre web platform built using the MERN stack and deployed using modern cloud infrastructure.
+
+✨ Features:
+
+* Responsive Diagnostic Centre Website
+* Online Appointment Booking System
+* Dynamic Notices & Job Vacancies
+* Diagnostic Package Management
+* Secure Admin Authentication
+* JWT-Protected Backend APIs
+* MongoDB Atlas Database
+* Cloudinary Media Storage
+* SEO & Google Analytics Integration
+* Responsive UI
+* Production Deployment with Vercel & Render
+
+🔗 Repository:
+
+[![Burdwan Scan Centre](https://img.shields.io/badge/View_Project-Burdwan_Scan_Centre-red?style=for-the-badge\&logo=github)](https://github.com/anilkumarpaital1-art/burdwan-scan-centre)
+
+---
+
 ### 🍔 CampusBite
 
 🌐 Full-Stack food ordering & canteen management platform designed for university students.
 
 ✨ Features:
-- Multi-Canteen Food Ordering
-- Vendor Dashboard
-- Real-Time Ordering System
-- Responsive UI
-- Authentication System
+
+* Multi-Canteen Food Ordering
+* Vendor Dashboard
+* Real-Time Ordering System
+* Responsive UI
+* Authentication System
 
 🔗 Repository:
 
-[![CampusBite](https://img.shields.io/badge/View_Project-CampusBite-green?style=for-the-badge&logo=github)](https://github.com/anilkumarpaital1-art/campusbite)
+[![CampusBite](https://img.shields.io/badge/View_Project-CampusBite-green?style=for-the-badge\&logo=github)](https://github.com/anilkumarpaital1-art/campusbite)
 
 ---
 
@@ -77,7 +103,7 @@
 
 🔗 Repository:
 
-[![AR Project](https://img.shields.io/badge/View_Project-AR_Image_Tracking-blue?style=for-the-badge&logo=github)](https://github.com/anilkumarpaital1-art/AR-Image-Tracking)
+[![AR Project](https://img.shields.io/badge/View_Project-AR_Image_Tracking-blue?style=for-the-badge\&logo=github)](https://github.com/anilkumarpaital1-art/AR-Image-Tracking)
 
 ---
 
